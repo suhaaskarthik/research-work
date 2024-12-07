@@ -7,3 +7,5 @@ data has been released due to confidentiality
 Articles i used:
 https://www.researchgate.net/publication/3193345_Information_theoretic_clustering
 https://en.wikipedia.org/wiki/Determining_the_number_of_clusters_in_a_data_set
+
+if code links don't work checkout this link: https://colab.research.google.com/drive/1LO5GFvxG1-OwcxARjOYpnZhGIb25y4vV?usp=drive_link
